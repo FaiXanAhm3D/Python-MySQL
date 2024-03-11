@@ -538,7 +538,9 @@ To SHOW the list of databases--(Show)
 To USE a database--------------(Use)
 To CREATE a database-----------(Create)
 To DROP a database-------------(Drop)
-To quit------------------------(Quit) or (Exit) or (Stop) or (Esc)''')
+To quit------------------------(Quit) or (Exit) or (Stop) or (Esc)
+
+Git branch test''')
     
     function=input("Enter the function: ").lower().strip()
     if function=='show':
