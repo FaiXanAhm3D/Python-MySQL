@@ -14,7 +14,9 @@ To UPDATE a table------------(Update)
 To ALTER data of a table-----(Alter)
 To get structure of a table--(Desc)
 To go BACK-------------------(Back)
-To quit----------------------(Quit) or (Exit) or (Stop) or (Esc)''')
+To quit----------------------(Quit) or (Exit) or (Stop) or (Esc)
+
+Git working branch code''')
     
     function=input("Enter the function: ").lower().strip()
     if function=='back':
