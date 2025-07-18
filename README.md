@@ -36,4 +36,4 @@ It serves as a simple command-line interface for managing data entries like stud
        password="your_mysql_password",
        database="your_database_name"
    )
-4.Install the required package: pip install mysql-connector-python
+4. Install the required package: pip install mysql-connector-python
